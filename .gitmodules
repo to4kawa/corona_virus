@@ -4,3 +4,6 @@
 [submodule "git/NYState-COVID-19-Tracker"]
 	path = git/NYState-COVID-19-Tracker
 	url = https://github.com/chazeon/NYState-COVID-19-Tracker.git
+[submodule "git/covid19cubadata.github.io"]
+	path = git/covid19cubadata.github.io
+	url = https://github.com/covid19cubadata/covid19cubadata.github.io.git
